@@ -1,8 +1,7 @@
 # Entity Database-First Advanced
-[![GitHub Release](https://img.shields.io/github/release/zjayers/entity.database-first.advanced.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/entity.database-first.advanced.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/entity.database-first.advanced.svg?style=flat)](https://github.com/zjayers/entity.database-first.advanced/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/entity.database-first.advanced.svg?style=flat)](https://github.com/zjayers/entity.database-first.advanced/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/entity.database-first.advanced.svg?maxAge=25000)](https://github.com/zjayers/entity.database-first.advanced/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/entity.database-first.advanced/blob/master/LICENSEs)
 
 ## Description
 
